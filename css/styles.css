@@ -332,7 +332,7 @@ padding-top: 0;
     margin-bottom: 12px;
 }
 
-.address-item.tel {
+.address-item:last-child {
     margin-bottom: 0px;
 }
 
